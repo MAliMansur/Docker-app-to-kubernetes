@@ -1,0 +1,7 @@
+flowchart LR
+    A[Developer / Docker VM] --> B[Build Docker Image]
+    B --> C[Docker Hub / Image Registry]
+    C --> D[k8s-master<br/>kubectl apply]
+    D --> E[k8s-worker<br/>Nginx App Pods]
+    E --> F[NodePort Service<br/>Port 30081]
+    F --> G[Browser / curl]
