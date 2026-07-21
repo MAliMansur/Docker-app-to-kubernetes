@@ -1,4 +1,4 @@
-# Lab 01: Deploy a Dockerized Web App to Kubernetes
+# Deploy a Dockerized Web App to Kubernetes
 
 ## Objective
 
