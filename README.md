@@ -15,6 +15,8 @@ Build a simple Nginx-based Docker image and deploy it to a kubeadm Kubernetes cl
 
 ## Architecture
 
+<img width="1470" height="876" alt="Screenshot 2026-07-21 153505" src="https://github.com/user-attachments/assets/84afc6fa-e13a-4d3b-a355-5877f921afc3" />
+
 ![Lab 01 Architecture](diagrams/lab01-architecture.png)
 
 Mermaid version: [architecture.mmd](diagrams/architecture.mmd)
